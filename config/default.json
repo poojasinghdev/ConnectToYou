@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://MERN:Password@123@cluster0.wgsa3.mongodb.net/MERN?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
