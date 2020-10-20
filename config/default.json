@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://MERN:Password@123@cluster0.wgsa3.mongodb.net/MERN?retryWrites=true&w=majority",
-  "jwtSecret": "secret",
-  "githubClientId": "47734986c1324fb87f57",
-  "githubSecret": "c0ad8f70b7a58bce560d6146d6a8b2bba73897a6"
-}
